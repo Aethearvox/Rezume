@@ -5,7 +5,6 @@ import Loader from '../components/Loader';
 import Shiba from '../models/shiba';
 import Sky from '../models/Sky';
 import Bird from '../models/Bird';
-import Plane from '../models/Plane';
 import HomeInfo from '../components/Homeinfo';
 
 const Home = () => { 
